@@ -1,0 +1,17 @@
+{
+  "summary": {
+    "title": "Centular Threat Model",
+    "owner": "Wessel Pieterse",
+    "description": "Centular is a technology provider."
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": []
+  },
+  "location": {
+    "organisation": "BrewTheoi",
+    "repo": "brew-theoi",
+    "branch": "master",
+    "model": "Centular Threat Model"
+  }
+}
